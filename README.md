@@ -14,6 +14,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+AI-powered+tools+with+Python+%26+FastAPI;Designing+OOP+systems+in+Java;Aspiring+AI%2FML+Infrastructure+Engineer;Always+learning%2C+always+shipping" alt="Typing SVG"/>
 
+<sub><i>Engineering real systems, not just coursework submissions.</i></sub>
+
 </div>
 
 <br/>
@@ -46,26 +48,29 @@
 <p> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/> </p>
 
 **Core Concepts**
-<p> <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-6366f1?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Object--Oriented%20Programming-6366f1?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Machine%20Learning-6366f1?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Prompt%20Engineering-6366f1?style=for-the-badge"/> </p>
+Data Structures & Algorithms · Object-Oriented Programming · Machine Learning Fundamentals · Prompt Engineering
 
 <br/>
 
 ## 🚀 Featured Projects
 
 ### 🏥 Smart Hospital Management System `In Progress`
-A KTU-compliant OOP mini-project in Java: a priority-queue-based patient triage engine built with Strategy and Observer design patterns, JDBC/MySQL persistence, and a JavaFX/Swing GUI.
+A modular Java desktop platform for hospital patient management — built to demonstrate layered architecture and OOP design discipline, not just satisfy a coursework checklist.
+**Architecture:** `JavaFX UI` → `Controller` → `Service (Strategy + Observer)` → `JDBC Repository` → `MySQL`
 `Java` `JDBC` `MySQL` `JavaFX` `OOP`
 
 ### 📄 AutoDoc AI — AI Documentation Generator
-An AI-powered tool that connects to a GitHub repo and auto-generates README files, API documentation, and system architecture diagrams — solving the pain point of outdated docs with an end-to-end pipeline.
+An AI-powered tool that connects to a GitHub repo and auto-generates README files, API documentation, and architecture diagrams through an end-to-end pipeline — built to solve a real developer pain point: docs that go stale.
 `FastAPI` `Celery` `Redis` `LangChain`
 
 ### 🎓 BUILDX'26 — AI-Driven EdTech Platform `Team Lead`
-Led a 4-member team to a working prototype in 12 hours, mapping user interests to personalized learning paths, certifications, and job opportunities with accessibility-first design.
+Led a 4-member team to a working prototype in a 12-hour hackathon, mapping user interests to personalized learning paths, certifications, and job opportunities with accessibility-first design.
 
 ### 💬 WhatsApp Web Homepage Replica
-A responsive, interactive front-end replica built during a Front-End Web Development Intensive, using Git/GitHub-based deployment workflows.
+A responsive, interactive front-end replica built during a Front-End Web Development Intensive, shipped using proper Git/GitHub deployment workflows.
 `HTML` `CSS` `JavaScript` `Git`
+
+Also on GitHub → [🪔 Diwali — Festival of Lights webpage](https://github.com/Muneeb-PT/diwali)
 
 <p align="center"><a href="https://github.com/Muneeb-PT?tab=repositories"><b>View more projects →</b></a></p>
 
@@ -93,26 +98,35 @@ A responsive, interactive front-end replica built during a Front-End Web Develop
 <table align="center">
 <tr>
 <td valign="top" width="50%">
-
-**Certifications**
-- Introduction to Machine Learning — NPTEL
-- Introduction to Software Engineering — IBM
-- Digital Edge 101 — NASSCOM
-- Placement Preparation Programme — eDC, IIT Delhi
-- Prompt Engineering for ChatGPT — Great Learning
-
+<strong>🎓 Certifications</strong>
+<ul>
+<li>Introduction to Machine Learning — NPTEL</li>
+<li>Introduction to Software Engineering — IBM</li>
+<li>Digital Edge 101 — NASSCOM</li>
+<li>Placement Preparation Programme — eDC, IIT Delhi</li>
+<li>Prompt Engineering for ChatGPT — Great Learning</li>
+</ul>
 </td>
 <td valign="top" width="50%">
-
-**Leadership**
-- Class Representative — KMEA Engineering College
-- Unit Leader, Junior Red Cross (3 years) — Best Cadet of the Year
-- Team Lead — BUILDX'26 Hackathon
-- IEEE Student Branch, Coding Club, TinkerHub — Active Member
-
+<strong>🧭 Leadership</strong>
+<ul>
+<li>Class Representative — KMEA Engineering College</li>
+<li>Unit Leader, Junior Red Cross (3 yrs) — Best Cadet of the Year</li>
+<li>Team Lead — BUILDX'26 Hackathon</li>
+<li>IEEE, Coding Club, TinkerHub — Active Member</li>
+</ul>
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 🎯 What I'm Working Toward
+
+- Deepening expertise in **AI/ML infrastructure and MLOps**
+- Building consistent, daily strength in **DSA and core CS fundamentals**
+- Contributing to **open-source ML tooling** (LangChain, Hugging Face ecosystem)
+- Growing into backend engineering roles where **AI meets real infrastructure**
 
 <br/>
 
