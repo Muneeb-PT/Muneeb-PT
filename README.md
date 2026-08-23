@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=210&section=header&text=Mohammed%20Muneeb%20PT&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20AI%2FML%20%26%20Backend%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:06b6d4&amp;height=210&amp;section=header&amp;text=Mohammed%20Muneeb%20PT&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Aspiring%20Software%20Engineer%20%7C%20AI%2FML%20%26%20Backend%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <p>
 📍 Kerala, India &nbsp;|&nbsp; 🎓 B.Tech CSE @ KMEA Engineering College (Autonomous)
 </p>
 
-<a href="https://linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mohammedmuneebptcsa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Muneeb-PT&style=for-the-badge&color=6366f1" alt="profile views"/>
+<a href="https://linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:mohammedmuneebptcsa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Muneeb-PT&amp;style=for-the-badge&amp;color=6366f1" alt="profile views"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+AI-powered+tools+with+Python+%26+FastAPI;Designing+OOP+systems+in+Java;Aspiring+AI%2FML+Infrastructure+Engineer;Always+learning%2C+always+shipping" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+AI-powered+tools+with+Python+%26+FastAPI;Designing+OOP+systems+in+Java;Aspiring+AI%2FML+Infrastructure+Engineer;Always+learning%2C+always+shipping" alt="Typing SVG"/>
 
 <sub><i>Engineering real systems, not just coursework submissions.</i></sub>
 
@@ -23,11 +23,11 @@
 ## 🧠 About Me
 
 - 🎓 CSE undergraduate at **KMEA Engineering College (Autonomous)** — merit seat, AICTE Tuition Fee Waiver recipient
-- 🔭 Currently building a **Smart Hospital Management System** in Java — priority-queue triage engine, Strategy & Observer design patterns, JDBC/MySQL, JavaFX GUI
-- 🤝 Collaborated on **AutoDoc AI**, an AI-powered documentation generator built on FastAPI, Celery, Redis & LangChain
+- 🔭 Currently building a **Smart Hospital Management System** in Java — priority-queue triage engine, Strategy &amp; Observer design patterns, JDBC/MySQL, JavaFX GUI
+- 🤝 Collaborated on **AutoDoc AI**, an AI-powered documentation generator built on FastAPI, Celery, Redis &amp; LangChain
 - 🏆 Led a 4-member team to a working prototype at **BUILDX'26**, a 12-hour AI/EdTech hackathon
 - 👥 Elected **Class Representative** for a 60-student CSE cohort
-- 🌱 Deepening my skills in **Data Structures & Algorithms** and **Java backend development**
+- 🌱 Deepening my skills in **Data Structures &amp; Algorithms** and **Java backend development**
 - 🎯 Long-term focus: **AI/ML infrastructure, MLOps, and backend engineering**
 - ⚡ Beyond code: competitive programming, game development, and 3 years of community-service leadership with the Junior Red Cross
 
@@ -36,19 +36,19 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-<p> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+<p> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/> </p>
 
 **Web Development**
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/> </p>
 
-**Tools & Platforms**
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </p>
+**Tools &amp; Platforms**
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white"/> </p>
 
-**AI/ML & Backend Ecosystem**
-<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/> </p>
+**AI/ML &amp; Backend Ecosystem**
+<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&amp;logo=celery&amp;logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logoColor=white"/> </p>
 
 **Core Concepts**
-Data Structures & Algorithms · Object-Oriented Programming · Machine Learning Fundamentals · Prompt Engineering
+Data Structures &amp; Algorithms · Object-Oriented Programming · Machine Learning Fundamentals · Prompt Engineering
 
 <br/>
 
@@ -79,21 +79,21 @@ Also on GitHub → [🪔 Diwali — Festival of Lights webpage](https://github.c
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-PT&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-PT&amp;theme=tokyonight&amp;hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muneeb-PT&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Muneeb-PT&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6"/>
 </p>
 
 <br/>
 
-## 🎖️ Certifications & Leadership
+## 🎖️ Certifications &amp; Leadership
 
 <table align="center">
 <tr>
@@ -134,9 +134,9 @@ Also on GitHub → [🪔 Diwali — Festival of Lights webpage](https://github.c
 
 ## 📫 Let's Connect
 
-<a href="https://linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mohammedmuneebptcsa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:mohammedmuneebptcsa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,100:6366f1&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
