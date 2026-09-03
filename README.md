@@ -1,309 +1,368 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:8b5cf6&height=220&section=header&text=Mohammed%20Muneeb%20PT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20AI%2FML&descAlignY=55&descSize=18" width="100%"/><h2>Hi there! 👋 I'm Mohammed Muneeb PT</h2><p>
-<b>Computer Science & Engineering Undergraduate</b><br/>
-Building practical software systems with Java, Python, backend technologies and AI/ML.
-</p><p>
-📍 Kerala, India &nbsp;•&nbsp;
-🎓 B.Tech CSE @ KMEA Engineering College (Autonomous)
-</p><p>
-<a href="https://linkedin.com/in/mohammed-muneeb-pt">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:mohammedmuneebptcsa@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Muneeb-PT">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p><img src="https://komarev.com/ghpvc/?username=Muneeb-PT&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/><br/><br/>
+<div align="center">👋 Hi, I'm Mohammed Muneeb PT
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Building+with+Java+%26+Python;Exploring+Backend+Engineering;Creating+AI-powered+Developer+Tools;Learning+DSA+%26+Core+Computer+Science;Turning+Ideas+into+Working+Projects" alt="Typing SVG"/><br/><i>Learn deeply. Build consistently. Ship useful things.</i>
+"Computer Science Engineer • Builder • AI Enthusiast"
 
-</div>---
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems;Exploring+AI+%2B+Backend+Engineering;Turning+ideas+into+working+systems;Learning+deeply.+Building+consistently.+Shipping+usefully." alt="Typing animation" /><p>
+  <a href="https://github.com/Muneeb-PT">
+    <img src="https://img.shields.io/badge/GitHub-Muneeb--PT-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-muneeb-pt">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Muneeb%20PT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p><img src="https://komarev.com/ghpvc/?username=Muneeb-PT&style=for-the-badge&color=58A6FF" alt="Profile views"/></div>---
 
-🧠 About Me
+🧑‍💻 About Me
 
-I'm a Computer Science & Engineering undergraduate at KMEA Engineering College (Autonomous), interested in building software that solves practical problems.
+I'm a B.Tech Computer Science & Engineering student at KMEA Engineering College (Autonomous), focused on becoming a strong software engineer by building systems rather than only completing tutorials.
 
-My current focus is on backend engineering, Java, Python, Data Structures & Algorithms, and AI/ML-powered applications.
+My current engineering interests sit at the intersection of:
 
-I enjoy taking an idea from:
-
-"Problem → Design → Code → Test → Deploy → Improve"
-
-Currently
-
-- 🎓 Pursuing B.Tech in Computer Science & Engineering
-- ☕ Building object-oriented systems with Java
-- 🐍 Developing backend and AI-powered applications with Python
-- 🧩 Strengthening Data Structures & Algorithms
-- 🏗️ Learning software architecture, databases and backend engineering
-- 🤖 Exploring AI/ML systems and developer tools
-- 🚀 Participating in hackathons, technical communities and project-based learning
-
----
-
-⚡ What I Like Building
-
-┌──────────────────────────────────────────────────────────────┐
-│                         MY INTERESTS                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  ☕ Java & OOP              🐍 Python & Backend              │
-│                                                              │
-│  🤖 AI-powered Tools       🗄️ Databases                     │
-│                                                              │
-│  🧩 Data Structures         🌐 Web Applications               │
-│                                                              │
-│  🏗️ Software Architecture   🚀 Developer Projects            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-
----
-
-🛠️ Tech Stack
-
-💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,mysql" />
-</p>⚙️ Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,redis" />
-</p>"JDBC" · "Celery" · "LangChain"
-
-🔧 Tools & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
-</p>🧠 Core Concepts
-
-"Data Structures & Algorithms" · "Object-Oriented Programming" · "Database Fundamentals" · "Software Engineering" · "Machine Learning Fundamentals" · "Prompt Engineering"
-
----
-
-🚀 Featured Projects
-
-«A selection of projects that represent what I'm learning and building.»
-
----
-
-🏥 MediNexus — Smart Hospital Management System
-
-Java-based hospital management platform
-
-A modular desktop application designed to manage hospital workflows while demonstrating practical OOP, design patterns, database connectivity and GUI development.
-
-Architecture
-
-JavaFX
-   │
-   ▼
-Controller Layer
-   │
-   ▼
-Service Layer
-   │
-   ├── Strategy Pattern
-   └── Observer Pattern
-   │
-   ▼
-JDBC / Repository
-   │
-   ▼
-MySQL
-
-Highlights
-
-- 👨‍⚕️ Patient management
-- 🚑 Priority-based triage
-- 🏥 Hospital workflow management
-- 🔔 Observer-based notifications
-- 🧠 Strategy-based business logic
-- 🗄️ JDBC + MySQL persistence
-- 🖥️ JavaFX graphical interface
-
-"Java" "OOP" "JavaFX" "JDBC" "MySQL" "Design Patterns"
-
----
-
-📄 AutoDoc AI
-
-AI-powered developer documentation generator
-
-A developer-focused tool designed to analyze software repositories and generate useful documentation automatically.
-
-Concept
-
-GitHub Repository
+Software Engineering
        │
-       ▼
-Repository Analysis
+       ├── Backend Development
+       │      ├── Java
+       │      ├── Python
+       │      ├── APIs
+       │      └── Databases
        │
-       ▼
-Code Processing
+       ├── Artificial Intelligence
+       │      ├── Machine Learning
+       │      ├── LLM Applications
+       │      ├── Prompt Engineering
+       │      └── AI Developer Tools
        │
-       ▼
-AI / LLM Pipeline
-       │
-       ├── README
-       ├── API Documentation
-       └── Architecture Documentation
+       └── Computer Science
+              ├── Data Structures & Algorithms
+              ├── OOP & Design Patterns
+              ├── DBMS
+              ├── Operating Systems
+              └── Computer Networks
 
-Technology
+I enjoy taking an idea through:
 
-"Python" "FastAPI" "Celery" "Redis" "LangChain"
+«Problem → Design → Code → Test → Deploy → Measure → Improve»
 
-Goal: Reduce the effort required to keep technical documentation useful and up to date.
+My goal isn't to collect technologies.
 
----
-
-🎓 BUILDX'26 — AI-Driven EdTech Platform
-
-Team Lead · 12-hour AI/EdTech Hackathon
-
-Led a 4-member team to develop a working prototype focused on connecting learners with personalized learning paths, certifications and career opportunities.
-
-Focus areas
-
-- 🎯 Personalized learning
-- 🧠 AI-assisted recommendations
-- 🎓 Certifications
-- 💼 Career opportunities
-- ♿ Accessibility-focused experience
-
-"AI" "EdTech" "Product Design" "Team Leadership"
+My goal is to become the kind of engineer who can understand a problem, design the system, build it well, and explain why it matters.
 
 ---
 
-💬 WhatsApp Web Homepage Replica
+⚡ What I'm Building Toward
 
-A responsive front-end recreation built during a Front-End Web Development Intensive, focusing on layout, responsive design and interactive UI development.
-
-"HTML" "CSS" "JavaScript" "Git" "GitHub"
-
----
-
-🪔 Diwali — Festival of Lights
-
-A themed web experience created as part of my Foundation of Computing coursework.
-
-Repository:
-👉 https://github.com/Muneeb-PT/diwali
-
-"HTML" "CSS" "Web Design"
-
----
-
-<div align="center"><a href="https://github.com/Muneeb-PT?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a></div>---
-
-📊 GitHub Activity
-
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/></div><br/><div align="center"><img src="https://streak-stats.demolab.com?user=Muneeb-PT&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></div>---
-
-🏆 Achievements & Leadership
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">🎓 Academic & Technical
+<td width="50%">🤖 AI Engineering
 
-- B.Tech Computer Science & Engineering
-- AICTE Tuition Fee Waiver recipient
-- NPTEL learning & certification journey
-- Software engineering & development courses
-- Hackathon participation
-- Technical workshops & developer communities
+- AI-powered applications
+- LLM workflows
+- Developer productivity tools
+- Machine-learning pipelines
+- AI automation
 
-</td><td width="50%" valign="top">🧭 Leadership & Community
+</td>
+<td width="50%">🏗️ Software Engineering
 
-- 👥 Class Representative
-- 🚀 Team Lead — BUILDX'26
-- 🧑‍💻 Active technical-community participant
-- 🔴 Junior Red Cross leadership experience
-- 🤝 Collaborative project development
+- Backend systems
+- REST APIs
+- Databases
+- System architecture
+- Maintainable & testable code
 
 </td>
 </tr>
 </table>---
 
-📚 Currently Learning
+🚀 Featured Work
 
-Java
- ├── Advanced OOP
- ├── Design Patterns
- ├── JavaFX
- └── Backend Development
+«A few projects that represent my current engineering journey.»
 
-Computer Science
- ├── Data Structures & Algorithms
- ├── DBMS
- ├── Operating Systems
- ├── Computer Networks
- └── Software Engineering
+🏥 MediNexus
 
-AI / ML
- ├── Machine Learning Fundamentals
- ├── LLM Applications
- ├── AI Developer Tools
- └── ML Infrastructure Concepts
+Smart Hospital Management System
+
+A Java-based modular hospital-management application designed around practical software-engineering principles.
+
+Architecture
+
+JavaFX
+   ↓
+Controller Layer
+   ↓
+Service Layer
+   ├── Strategy Pattern
+   └── Observer Pattern
+   ↓
+Repository / JDBC
+   ↓
+MySQL
+
+What it demonstrates
+
+- Object-Oriented Programming
+- Design Patterns
+- JavaFX
+- JDBC
+- Database persistence
+- Hospital workflow modelling
+- Priority-based triage
+- Event-driven notifications
 
 ---
 
-🎯 Roadmap
+🤖 AutoDoc AI
 
-2026
+AI-powered Developer Documentation Generator
 
-- [x] Strengthen Java fundamentals
-- [x] Build academic & personal projects
+A developer-focused system designed to analyze software repositories and automatically generate useful technical documentation.
+
+GitHub Repository
+       ↓
+Repository Analysis
+       ↓
+Code Processing
+       ↓
+AI / LLM Pipeline
+       ↓
+┌──────────────┬──────────────┬────────────────┐
+│ README       │ API Docs     │ Architecture   │
+└──────────────┴──────────────┴────────────────┘
+
+Stack
+
+"Python" · "FastAPI" · "Celery" · "Redis" · "LangChain"
+
+The broader goal:
+
+«Reduce the friction of keeping technical documentation useful and up-to-date.»
+
+---
+
+🎓 BUILDX'26 / Synapse MindSpark
+
+AI-driven EdTech Prototype
+
+Participated in a 12-hour hackathon and worked with a team to transform an initial idea into a functional prototype.
+
+Focus areas included:
+
+- 🎯 Personalized learning
+- 🤖 AI-assisted recommendations
+- 🎓 Certifications
+- 💼 Career opportunities
+- ♿ Accessibility
+- 👥 Team collaboration
+- ⚡ Rapid product development
+
+Key lesson:
+A hackathon isn't just about writing code quickly.
+
+It's about deciding what to build, what not to build, and how to make the prototype actually work.
+
+---
+
+🌐 Frontend & Web Projects
+
+I've also built smaller projects while strengthening my fundamentals:
+
+Project| Focus
+💬 WhatsApp Web Replica| HTML · CSS · JavaScript · Responsive UI
+🪔 Diwali Festival of Lights| HTML · CSS · GitHub Pages
+🌦️ Weather App| React · Vite · API integration
+🧮 Calculator| JavaScript · Responsive UI
+🌐 First HTML Projects| Web fundamentals
+
+These projects represent the progression from learning syntax → building interfaces → integrating APIs → building systems.
+
+---
+
+🛠️ Technology Stack
+
+<div align="center">Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" />Backend & Data
+
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,redis" />AI / ML
+
+<img src="https://skillicons.dev/icons?i=python" />"NumPy" · "Pandas" · "Scikit-learn" · "LangChain" · "LLM APIs"
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux" /></div>---
+
+🧠 Engineering Skills
+
+                    SOFTWARE ENGINEERING
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+       PROGRAMMING       SYSTEMS           AI
+          │                │                │
+       Java / Python      Backend          ML
+       C++ / JS           APIs             LLMs
+          │                │                │
+         OOP             Databases       Automation
+         DSA             Architecture    AI Tools
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                     PRODUCT THINKING
+                           │
+                 Problem → Solution → Impact
+
+Currently strengthening
+
+- Data Structures & Algorithms
+- Advanced Java & OOP
+- Backend development
+- DBMS
+- REST APIs
+- Software architecture
+- Machine Learning
+- LLM application development
+- Testing & debugging
+- Git & collaborative development
+
+---
+
+🏆 Leadership & Experience
+
+🚀 Team Lead — BUILDX'26
+
+Led a 4-member team during a 12-hour AI/EdTech hackathon.
+
+👥 Class Representative
+
+Developing communication, coordination and responsibility alongside technical skills.
+
+🔴 Junior Red Cross
+
+Leadership and community-service experience developed through multiple years of participation, including unit-level leadership.
+
+🌐 Technical Communities
+
+Active interest in:
+
+- IEEE
+- Computer Science communities
+- TinkerHub
+- Hackathons
+- Technical workshops
+- Collaborative learning
+
+---
+
+🎯 My 2026 → 2029 Engineering Roadmap
+
+"2026" — Foundations
+
+- [x] Build web-development fundamentals
 - [x] Participate in hackathons
-- [ ] Build production-quality backend projects
-- [ ] Strengthen DSA consistently
-- [ ] Learn advanced database concepts
-- [ ] Improve software architecture skills
+- [x] Explore AI/ML
+- [x] Build Java/OOP projects
+- [ ] Become consistent with DSA
+- [ ] Build production-quality backend systems
+- [ ] Strengthen SQL & DBMS
 
-2027
+"2027" — Engineering Depth
 
-- [ ] Build larger full-stack/backend systems
-- [ ] Contribute to open source
-- [ ] Gain internship experience
-- [ ] Deepen AI/ML engineering
-- [ ] Explore MLOps and distributed systems
+- [ ] Advanced backend development
+- [ ] Build serious full-stack systems
+- [ ] Open-source contributions
+- [ ] Internship
+- [ ] Advanced DSA
+- [ ] Testing & CI/CD
+- [ ] System-design fundamentals
 
-2028+
+"2028" — Production Mindset
 
-- [ ] Become a strong software/backend engineer
-- [ ] Work on real-world AI/ML systems
-- [ ] Contribute to meaningful open-source projects
-- [ ] Pursue high-impact engineering opportunities
+- [ ] Distributed systems
+- [ ] Cloud engineering
+- [ ] MLOps
+- [ ] Scalable AI applications
+- [ ] Large collaborative projects
+- [ ] High-quality open-source contributions
+
+"2029+" — Impact
+
+«Become a software engineer capable of designing, building and operating reliable systems that create measurable real-world value.»
 
 ---
+
+📊 GitHub Analytics
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=Muneeb-PT&hide_border=true&theme=transparent" /></div>---
+
+🐍 Contribution Journey
+
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/></div>---
 
 💡 My Engineering Philosophy
 
-<div align="center">Don't just learn technologies.
-
+Don't just learn a technology.
+            ↓
 Understand the problem.
+            ↓
 Design the system.
+            ↓
 Write maintainable code.
-Test it.
-Ship it.
-Learn from it.
-Build the next version better.
+            ↓
+Test the assumptions.
+            ↓
+Ship the smallest useful version.
+            ↓
+Measure what happened.
+            ↓
+Improve it.
 
-</div>---
+«Good engineering is not about making things complicated.
+It's about making the right things work reliably.»
 
-📫 Connect With Me
+---
 
-<div align="center"><a href="https://linkedin.com/in/mohammed-muneeb-pt">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:mohammedmuneebptcsa@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://github.com/Muneeb-PT">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><br/><br/>
+📈 What I Want My GitHub To Become
 
-<i>Open to learning, collaborating and building meaningful projects.</i>
+I'm intentionally building this profile toward engineering evidence, not just certificates.
 
-</div><br/><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:06b6d4&height=120&section=footer" width="100%"/></div>
+More Projects
+     +
+Better Architecture
+     +
+Open Source
+     +
+DSA
+     +
+Real Users
+     +
+Technical Writing
+     +
+Consistent Contributions
+     ↓
+STRONG SOFTWARE ENGINEERING PORTFOLIO
+
+---
+
+🤝 Let's Build Something
+
+I'm interested in collaborating on:
+
+- 🤖 AI applications
+- 🏗️ Backend systems
+- 🌐 Full-stack products
+- 🧠 Developer tools
+- 🚀 Hackathon projects
+- 🌍 Open-source projects
+- 💡 Practical technology solving real problems
+
+<div align="center">Build. Break. Learn. Improve. Repeat.
+
+<br><a href="https://github.com/Muneeb-PT">
+<img src="https://img.shields.io/badge/GitHub-Muneeb--PT-181717?style=for-the-badge&logo=github"/>
+</a><a href="https://www.linkedin.com/in/mohammed-muneeb-pt">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/></div>
