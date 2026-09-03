@@ -1,368 +1,156 @@
-<div align="center">👋 Hi, I'm Mohammed Muneeb PT
+Here is a production-ready, high-aesthetic GitHub profile README.md tailored for your handle (Muneeb-PT). It features dynamic SVG typing animations, dark-mode themed GitHub statistics, categorized tech badges, animated GitHub activity, and a snake contribution grid.
+Instructions to Set Up
+ * Go to GitHub and create a new repository named exactly Muneeb-PT (matching your username).
+ * Check the box to initialize with a README.md (or create one manually).
+ * Copy and paste the raw code below into your README.md file and commit the changes.
+<div align="center">
 
-"Computer Science Engineer • Builder • AI Enthusiast"
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems;Exploring+AI+%2B+Backend+Engineering;Turning+ideas+into+working+systems;Learning+deeply.+Building+consistently.+Shipping+usefully." alt="Typing animation" /><p>
-  <a href="https://github.com/Muneeb-PT">
-    <img src="https://img.shields.io/badge/GitHub-Muneeb--PT-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <!-- Dynamic Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Mohammed+Muneeb+P+T;Full-Stack+Developer+%26+Maker+%F0%9F%92%BB;Crafting+Sleek+UIs+%26+Scalable+Apps+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
+
+  <br />
+
+  <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/mohammed-muneeb-pt">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Muneeb%20PT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  <a href="https://github.com/Muneeb-PT">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p><img src="https://komarev.com/ghpvc/?username=Muneeb-PT&style=for-the-badge&color=58A6FF" alt="Profile views"/></div>---
+  <a href="mailto:muneeb.pt.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 
-🧑‍💻 About Me
+  <br /><br />
 
-I'm a B.Tech Computer Science & Engineering student at KMEA Engineering College (Autonomous), focused on becoming a strong software engineer by building systems rather than only completing tutorials.
+  <!-- Animated Banner / Wave Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header" width="100%" />
 
-My current engineering interests sit at the intersection of:
-
-Software Engineering
-       │
-       ├── Backend Development
-       │      ├── Java
-       │      ├── Python
-       │      ├── APIs
-       │      └── Databases
-       │
-       ├── Artificial Intelligence
-       │      ├── Machine Learning
-       │      ├── LLM Applications
-       │      ├── Prompt Engineering
-       │      └── AI Developer Tools
-       │
-       └── Computer Science
-              ├── Data Structures & Algorithms
-              ├── OOP & Design Patterns
-              ├── DBMS
-              ├── Operating Systems
-              └── Computer Networks
-
-I enjoy taking an idea through:
-
-«Problem → Design → Code → Test → Deploy → Measure → Improve»
-
-My goal isn't to collect technologies.
-
-My goal is to become the kind of engineer who can understand a problem, design the system, build it well, and explain why it matters.
+</div>
 
 ---
 
-⚡ What I'm Building Toward
+### ⚡ About Me
 
+```text
+┌──[ muneeb@developer ]─[~]
+└──$ cat about_me.json
+{
+  "name": "Mohammed Muneeb P T",
+  "role": "Full Stack Developer & Product Builder",
+  "passions": ["Clean Code", "UI/UX Micro-Interactions", "Open Source", "Scalable Systems"],
+  "current_focus": "Building high-performance web applications & modern mobile experiences",
+  "architecture": "Clean Architecture / Modular / Event-Driven"
+}
+
+ * 🔭 Currently Working On: Full-stack applications & modern frontend interfaces.
+ * 🎨 UI/UX Philosophy: Pixel-perfect, accessible, and high-motion user experiences.
+ * 🌱 Learning & Exploring: Deep diving into system design, serverless architectures, and advanced animations.
+ * 💬 Ask Me About: React, JavaScript/TypeScript, Next.js, Node.js, and modern UI frameworks.
+🛠 Tech Stack & Tools
+<div align="center">
+| Category | Technologies |
+|---|---|
+| Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"/> |
+| Frontend & UI | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/> |
+| Backend & Databases | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="30" height="30"/> |
+| Tools & DevOps | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="30" height="30"/> |
+</div>
+📊 GitHub Analytics
+<div align="center">
+<!-- GitHub Stats & Top Languages Cards -->
+<a href="https://github.com/Muneeb-PT">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Muneeb's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&layout=compact&theme=tokyonight&hide_border=true&card_width=350" alt="Top Languages" />
+</a>
+<br /><br />
+<!-- Streak Stats Card -->
+<a href="https://github.com/Muneeb-PT">
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-PT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+</div>
+🐍 Contribution Activity Graph
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muneeb-PT/Muneeb-PT/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muneeb-PT/Muneeb-PT/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Muneeb-PT/Muneeb-PT/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+🌟 Featured Highlights
 <table>
 <tr>
-<td width="50%">🤖 AI Engineering
-
-- AI-powered applications
-- LLM workflows
-- Developer productivity tools
-- Machine-learning pipelines
-- AI automation
-
+<td width="50%">
+<h3 align="center"><b>🎨 Web Applications</b></h3>
+<p align="center">
+Interactive, fast, and responsive digital web experiences engineered with modern frameworks.
+</p>
+<p align="center">
+<code>React</code> • <code>Next.js</code> • <code>TailwindCSS</code>
+</p>
 </td>
-<td width="50%">🏗️ Software Engineering
-
-- Backend systems
-- REST APIs
-- Databases
-- System architecture
-- Maintainable & testable code
-
+<td width="50%">
+<h3 align="center"><b>⚡ Backend Architectures</b></h3>
+<p align="center">
+Robust APIs, clean microservice patterns, and efficient database structures for seamless data flow.
+</p>
+<p align="center">
+<code>Node.js</code> • <code>Express</code> • <code>MongoDB</code>
+</p>
 </td>
 </tr>
-</table>---
-
-🚀 Featured Work
-
-«A few projects that represent my current engineering journey.»
-
-🏥 MediNexus
-
-Smart Hospital Management System
-
-A Java-based modular hospital-management application designed around practical software-engineering principles.
-
-Architecture
-
-JavaFX
-   ↓
-Controller Layer
-   ↓
-Service Layer
-   ├── Strategy Pattern
-   └── Observer Pattern
-   ↓
-Repository / JDBC
-   ↓
-MySQL
-
-What it demonstrates
-
-- Object-Oriented Programming
-- Design Patterns
-- JavaFX
-- JDBC
-- Database persistence
-- Hospital workflow modelling
-- Priority-based triage
-- Event-driven notifications
+</table>
+<div align="center">
+<!-- Quote of the day / Footer element -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<br /><br />
+<!-- Visitor Count -->
+<img src="https://komarev.com/ghpvc/?username=Muneeb-PT&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<br /><br />
+<sub>Designed & Developed by <b>Mohammed Muneeb P T</b></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%" />
+</div>
 
 ---
 
-🤖 AutoDoc AI
-
-AI-powered Developer Documentation Generator
-
-A developer-focused system designed to analyze software repositories and automatically generate useful technical documentation.
-
-GitHub Repository
-       ↓
-Repository Analysis
-       ↓
-Code Processing
-       ↓
-AI / LLM Pipeline
-       ↓
-┌──────────────┬──────────────┬────────────────┐
-│ README       │ API Docs     │ Architecture   │
-└──────────────┴──────────────┴────────────────┘
-
-Stack
-
-"Python" · "FastAPI" · "Celery" · "Redis" · "LangChain"
-
-The broader goal:
-
-«Reduce the friction of keeping technical documentation useful and up-to-date.»
-
----
-
-🎓 BUILDX'26 / Synapse MindSpark
-
-AI-driven EdTech Prototype
-
-Participated in a 12-hour hackathon and worked with a team to transform an initial idea into a functional prototype.
-
-Focus areas included:
-
-- 🎯 Personalized learning
-- 🤖 AI-assisted recommendations
-- 🎓 Certifications
-- 💼 Career opportunities
-- ♿ Accessibility
-- 👥 Team collaboration
-- ⚡ Rapid product development
-
-Key lesson:
-A hackathon isn't just about writing code quickly.
-
-It's about deciding what to build, what not to build, and how to make the prototype actually work.
-
----
-
-🌐 Frontend & Web Projects
-
-I've also built smaller projects while strengthening my fundamentals:
-
-Project| Focus
-💬 WhatsApp Web Replica| HTML · CSS · JavaScript · Responsive UI
-🪔 Diwali Festival of Lights| HTML · CSS · GitHub Pages
-🌦️ Weather App| React · Vite · API integration
-🧮 Calculator| JavaScript · Responsive UI
-🌐 First HTML Projects| Web fundamentals
-
-These projects represent the progression from learning syntax → building interfaces → integrating APIs → building systems.
-
----
-
-🛠️ Technology Stack
-
-<div align="center">Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" />Backend & Data
-
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,redis" />AI / ML
-
-<img src="https://skillicons.dev/icons?i=python" />"NumPy" · "Pandas" · "Scikit-learn" · "LangChain" · "LLM APIs"
-
-Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux" /></div>---
-
-🧠 Engineering Skills
-
-                    SOFTWARE ENGINEERING
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-       PROGRAMMING       SYSTEMS           AI
-          │                │                │
-       Java / Python      Backend          ML
-       C++ / JS           APIs             LLMs
-          │                │                │
-         OOP             Databases       Automation
-         DSA             Architecture    AI Tools
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                     PRODUCT THINKING
-                           │
-                 Problem → Solution → Impact
-
-Currently strengthening
-
-- Data Structures & Algorithms
-- Advanced Java & OOP
-- Backend development
-- DBMS
-- REST APIs
-- Software architecture
-- Machine Learning
-- LLM application development
-- Testing & debugging
-- Git & collaborative development
-
----
-
-🏆 Leadership & Experience
-
-🚀 Team Lead — BUILDX'26
-
-Led a 4-member team during a 12-hour AI/EdTech hackathon.
-
-👥 Class Representative
-
-Developing communication, coordination and responsibility alongside technical skills.
-
-🔴 Junior Red Cross
-
-Leadership and community-service experience developed through multiple years of participation, including unit-level leadership.
-
-🌐 Technical Communities
-
-Active interest in:
-
-- IEEE
-- Computer Science communities
-- TinkerHub
-- Hackathons
-- Technical workshops
-- Collaborative learning
-
----
-
-🎯 My 2026 → 2029 Engineering Roadmap
-
-"2026" — Foundations
-
-- [x] Build web-development fundamentals
-- [x] Participate in hackathons
-- [x] Explore AI/ML
-- [x] Build Java/OOP projects
-- [ ] Become consistent with DSA
-- [ ] Build production-quality backend systems
-- [ ] Strengthen SQL & DBMS
-
-"2027" — Engineering Depth
-
-- [ ] Advanced backend development
-- [ ] Build serious full-stack systems
-- [ ] Open-source contributions
-- [ ] Internship
-- [ ] Advanced DSA
-- [ ] Testing & CI/CD
-- [ ] System-design fundamentals
-
-"2028" — Production Mindset
-
-- [ ] Distributed systems
-- [ ] Cloud engineering
-- [ ] MLOps
-- [ ] Scalable AI applications
-- [ ] Large collaborative projects
-- [ ] High-quality open-source contributions
-
-"2029+" — Impact
-
-«Become a software engineer capable of designing, building and operating reliable systems that create measurable real-world value.»
-
----
-
-📊 GitHub Analytics
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=Muneeb-PT&hide_border=true&theme=transparent" /></div>---
-
-🐍 Contribution Journey
-
-<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/></div>---
-
-💡 My Engineering Philosophy
-
-Don't just learn a technology.
-            ↓
-Understand the problem.
-            ↓
-Design the system.
-            ↓
-Write maintainable code.
-            ↓
-Test the assumptions.
-            ↓
-Ship the smallest useful version.
-            ↓
-Measure what happened.
-            ↓
-Improve it.
-
-«Good engineering is not about making things complicated.
-It's about making the right things work reliably.»
-
----
-
-📈 What I Want My GitHub To Become
-
-I'm intentionally building this profile toward engineering evidence, not just certificates.
-
-More Projects
-     +
-Better Architecture
-     +
-Open Source
-     +
-DSA
-     +
-Real Users
-     +
-Technical Writing
-     +
-Consistent Contributions
-     ↓
-STRONG SOFTWARE ENGINEERING PORTFOLIO
-
----
-
-🤝 Let's Build Something
-
-I'm interested in collaborating on:
-
-- 🤖 AI applications
-- 🏗️ Backend systems
-- 🌐 Full-stack products
-- 🧠 Developer tools
-- 🚀 Hackathon projects
-- 🌍 Open-source projects
-- 💡 Practical technology solving real problems
-
-<div align="center">Build. Break. Learn. Improve. Repeat.
-
-<br><a href="https://github.com/Muneeb-PT">
-<img src="https://img.shields.io/badge/GitHub-Muneeb--PT-181717?style=for-the-badge&logo=github"/>
-</a><a href="https://www.linkedin.com/in/mohammed-muneeb-pt">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/></div>
+### 💡 Optional Enhancement: Auto-Generating the Contribution Snake
+
+To automatically generate the animated **Snake SVG** on your GitHub activity graph:
+
+1. In your `Muneeb-PT` repo, create a folder structure `.github/workflows/`.
+2. Inside `.github/workflows/`, create a file named `snake.yml`.
+3. Paste the following code into `snake.yml`:
+
+```yaml
+name: Generate Snake Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+Once saved, GitHub Actions will automatically run every 12 hours to update the snake visual in your README.
