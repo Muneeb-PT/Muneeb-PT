@@ -1,142 +1,309 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:8b5cf6&height=220&section=header&text=Mohammed%20Muneeb%20PT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20AI%2FML&descAlignY=55&descSize=18" width="100%"/><h2>Hi there! 👋 I'm Mohammed Muneeb PT</h2><p>
+<b>Computer Science & Engineering Undergraduate</b><br/>
+Building practical software systems with Java, Python, backend technologies and AI/ML.
+</p><p>
+📍 Kerala, India &nbsp;•&nbsp;
+🎓 B.Tech CSE @ KMEA Engineering College (Autonomous)
+</p><p>
+<a href="https://linkedin.com/in/mohammed-muneeb-pt">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mohammedmuneebptcsa@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Muneeb-PT">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p><img src="https://komarev.com/ghpvc/?username=Muneeb-PT&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:06b6d4&amp;height=210&amp;section=header&amp;text=Mohammed%20Muneeb%20PT&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Aspiring%20Software%20Engineer%20%7C%20AI%2FML%20%26%20Backend%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Building+with+Java+%26+Python;Exploring+Backend+Engineering;Creating+AI-powered+Developer+Tools;Learning+DSA+%26+Core+Computer+Science;Turning+Ideas+into+Working+Projects" alt="Typing SVG"/><br/><i>Learn deeply. Build consistently. Ship useful things.</i>
+
+</div>---
+
+🧠 About Me
+
+I'm a Computer Science & Engineering undergraduate at KMEA Engineering College (Autonomous), interested in building software that solves practical problems.
+
+My current focus is on backend engineering, Java, Python, Data Structures & Algorithms, and AI/ML-powered applications.
+
+I enjoy taking an idea from:
+
+"Problem → Design → Code → Test → Deploy → Improve"
+
+Currently
+
+- 🎓 Pursuing B.Tech in Computer Science & Engineering
+- ☕ Building object-oriented systems with Java
+- 🐍 Developing backend and AI-powered applications with Python
+- 🧩 Strengthening Data Structures & Algorithms
+- 🏗️ Learning software architecture, databases and backend engineering
+- 🤖 Exploring AI/ML systems and developer tools
+- 🚀 Participating in hackathons, technical communities and project-based learning
+
+---
+
+⚡ What I Like Building
+
+┌──────────────────────────────────────────────────────────────┐
+│                         MY INTERESTS                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ☕ Java & OOP              🐍 Python & Backend              │
+│                                                              │
+│  🤖 AI-powered Tools       🗄️ Databases                     │
+│                                                              │
+│  🧩 Data Structures         🌐 Web Applications               │
+│                                                              │
+│  🏗️ Software Architecture   🚀 Developer Projects            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
+---
+
+🛠️ Tech Stack
+
+💻 Languages
 
 <p>
-📍 Kerala, India &nbsp;|&nbsp; 🎓 B.Tech CSE @ KMEA Engineering College (Autonomous)
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,mysql" />
+</p>⚙️ Backend & Frameworks
 
-<a href="https://linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="mailto:mohammedmuneebptcsa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Muneeb-PT&amp;style=for-the-badge&amp;color=6366f1" alt="profile views"/>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,redis" />
+</p>"JDBC" · "Celery" · "LangChain"
 
-<br/><br/>
+🔧 Tools & Development
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+AI-powered+tools+with+Python+%26+FastAPI;Designing+OOP+systems+in+Java;Aspiring+AI%2FML+Infrastructure+Engineer;Always+learning%2C+always+shipping" alt="Typing SVG"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
+</p>🧠 Core Concepts
 
-<sub><i>Engineering real systems, not just coursework submissions.</i></sub>
+"Data Structures & Algorithms" · "Object-Oriented Programming" · "Database Fundamentals" · "Software Engineering" · "Machine Learning Fundamentals" · "Prompt Engineering"
 
-</div>
+---
 
-<br/>
+🚀 Featured Projects
 
-## 🧠 About Me
+«A selection of projects that represent what I'm learning and building.»
 
-- 🎓 CSE undergraduate at **KMEA Engineering College (Autonomous)** — merit seat, AICTE Tuition Fee Waiver recipient
-- 🔭 Currently building a **Smart Hospital Management System** in Java — priority-queue triage engine, Strategy &amp; Observer design patterns, JDBC/MySQL, JavaFX GUI
-- 🤝 Collaborated on **AutoDoc AI**, an AI-powered documentation generator built on FastAPI, Celery, Redis &amp; LangChain
-- 🏆 Led a 4-member team to a working prototype at **BUILDX'26**, a 12-hour AI/EdTech hackathon
-- 👥 Elected **Class Representative** for a 60-student CSE cohort
-- 🌱 Deepening my skills in **Data Structures &amp; Algorithms** and **Java backend development**
-- 🎯 Long-term focus: **AI/ML infrastructure, MLOps, and backend engineering**
-- ⚡ Beyond code: competitive programming, game development, and 3 years of community-service leadership with the Junior Red Cross
+---
 
-<br/>
+🏥 MediNexus — Smart Hospital Management System
 
-## 🛠️ Tech Stack
+Java-based hospital management platform
 
-**Languages**
-<p> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/> </p>
+A modular desktop application designed to manage hospital workflows while demonstrating practical OOP, design patterns, database connectivity and GUI development.
 
-**Web Development**
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/> </p>
+Architecture
 
-**Tools &amp; Platforms**
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white"/> </p>
+JavaFX
+   │
+   ▼
+Controller Layer
+   │
+   ▼
+Service Layer
+   │
+   ├── Strategy Pattern
+   └── Observer Pattern
+   │
+   ▼
+JDBC / Repository
+   │
+   ▼
+MySQL
 
-**AI/ML &amp; Backend Ecosystem**
-<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&amp;logo=celery&amp;logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logoColor=white"/> </p>
+Highlights
 
-**Core Concepts**
-Data Structures &amp; Algorithms · Object-Oriented Programming · Machine Learning Fundamentals · Prompt Engineering
+- 👨‍⚕️ Patient management
+- 🚑 Priority-based triage
+- 🏥 Hospital workflow management
+- 🔔 Observer-based notifications
+- 🧠 Strategy-based business logic
+- 🗄️ JDBC + MySQL persistence
+- 🖥️ JavaFX graphical interface
 
-<br/>
+"Java" "OOP" "JavaFX" "JDBC" "MySQL" "Design Patterns"
 
-## 🚀 Featured Projects
+---
 
-### 🏥 Smart Hospital Management System `In Progress`
-A modular Java desktop platform for hospital patient management — built to demonstrate layered architecture and OOP design discipline, not just satisfy a coursework checklist.
-**Architecture:** `JavaFX UI` → `Controller` → `Service (Strategy + Observer)` → `JDBC Repository` → `MySQL`
-`Java` `JDBC` `MySQL` `JavaFX` `OOP`
+📄 AutoDoc AI
 
-### 📄 AutoDoc AI — AI Documentation Generator
-An AI-powered tool that connects to a GitHub repo and auto-generates README files, API documentation, and architecture diagrams through an end-to-end pipeline — built to solve a real developer pain point: docs that go stale.
-`FastAPI` `Celery` `Redis` `LangChain`
+AI-powered developer documentation generator
 
-### 🎓 BUILDX'26 — AI-Driven EdTech Platform `Team Lead`
-Led a 4-member team to a working prototype in a 12-hour hackathon, mapping user interests to personalized learning paths, certifications, and job opportunities with accessibility-first design.
+A developer-focused tool designed to analyze software repositories and generate useful documentation automatically.
 
-### 💬 WhatsApp Web Homepage Replica
-A responsive, interactive front-end replica built during a Front-End Web Development Intensive, shipped using proper Git/GitHub deployment workflows.
-`HTML` `CSS` `JavaScript` `Git`
+Concept
 
-Also on GitHub → [🪔 Diwali — Festival of Lights webpage](https://github.com/Muneeb-PT/diwali)
+GitHub Repository
+       │
+       ▼
+Repository Analysis
+       │
+       ▼
+Code Processing
+       │
+       ▼
+AI / LLM Pipeline
+       │
+       ├── README
+       ├── API Documentation
+       └── Architecture Documentation
 
-<p align="center"><a href="https://github.com/Muneeb-PT?tab=repositories"><b>View more projects →</b></a></p>
+Technology
 
-<br/>
+"Python" "FastAPI" "Celery" "Redis" "LangChain"
 
-## 📊 GitHub Stats
+Goal: Reduce the effort required to keep technical documentation useful and up to date.
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"/>
-</p>
+---
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-PT&amp;theme=tokyonight&amp;hide_border=true"/>
-</p>
+🎓 BUILDX'26 — AI-Driven EdTech Platform
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muneeb-PT&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6"/>
-</p>
+Team Lead · 12-hour AI/EdTech Hackathon
 
-<br/>
+Led a 4-member team to develop a working prototype focused on connecting learners with personalized learning paths, certifications and career opportunities.
 
-## 🎖️ Certifications &amp; Leadership
+Focus areas
+
+- 🎯 Personalized learning
+- 🧠 AI-assisted recommendations
+- 🎓 Certifications
+- 💼 Career opportunities
+- ♿ Accessibility-focused experience
+
+"AI" "EdTech" "Product Design" "Team Leadership"
+
+---
+
+💬 WhatsApp Web Homepage Replica
+
+A responsive front-end recreation built during a Front-End Web Development Intensive, focusing on layout, responsive design and interactive UI development.
+
+"HTML" "CSS" "JavaScript" "Git" "GitHub"
+
+---
+
+🪔 Diwali — Festival of Lights
+
+A themed web experience created as part of my Foundation of Computing coursework.
+
+Repository:
+👉 https://github.com/Muneeb-PT/diwali
+
+"HTML" "CSS" "Web Design"
+
+---
+
+<div align="center"><a href="https://github.com/Muneeb-PT?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a></div>---
+
+📊 GitHub Activity
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/></div><br/><div align="center"><img src="https://streak-stats.demolab.com?user=Muneeb-PT&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></div>---
+
+🏆 Achievements & Leadership
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
-<strong>🎓 Certifications</strong>
-<ul>
-<li>Introduction to Machine Learning — NPTEL</li>
-<li>Introduction to Software Engineering — IBM</li>
-<li>Digital Edge 101 — NASSCOM</li>
-<li>Placement Preparation Programme — eDC, IIT Delhi</li>
-<li>Prompt Engineering for ChatGPT — Great Learning</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<strong>🧭 Leadership</strong>
-<ul>
-<li>Class Representative — KMEA Engineering College</li>
-<li>Unit Leader, Junior Red Cross (3 yrs) — Best Cadet of the Year</li>
-<li>Team Lead — BUILDX'26 Hackathon</li>
-<li>IEEE, Coding Club, TinkerHub — Active Member</li>
-</ul>
+<td width="50%" valign="top">🎓 Academic & Technical
+
+- B.Tech Computer Science & Engineering
+- AICTE Tuition Fee Waiver recipient
+- NPTEL learning & certification journey
+- Software engineering & development courses
+- Hackathon participation
+- Technical workshops & developer communities
+
+</td><td width="50%" valign="top">🧭 Leadership & Community
+
+- 👥 Class Representative
+- 🚀 Team Lead — BUILDX'26
+- 🧑‍💻 Active technical-community participant
+- 🔴 Junior Red Cross leadership experience
+- 🤝 Collaborative project development
+
 </td>
 </tr>
-</table>
+</table>---
 
-<br/>
+📚 Currently Learning
 
-## 🎯 What I'm Working Toward
+Java
+ ├── Advanced OOP
+ ├── Design Patterns
+ ├── JavaFX
+ └── Backend Development
 
-- Deepening expertise in **AI/ML infrastructure and MLOps**
-- Building consistent, daily strength in **DSA and core CS fundamentals**
-- Contributing to **open-source ML tooling** (LangChain, Hugging Face ecosystem)
-- Growing into backend engineering roles where **AI meets real infrastructure**
+Computer Science
+ ├── Data Structures & Algorithms
+ ├── DBMS
+ ├── Operating Systems
+ ├── Computer Networks
+ └── Software Engineering
 
-<br/>
+AI / ML
+ ├── Machine Learning Fundamentals
+ ├── LLM Applications
+ ├── AI Developer Tools
+ └── ML Infrastructure Concepts
 
-<div align="center">
+---
 
-## 📫 Let's Connect
+🎯 Roadmap
 
-<a href="https://linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="mailto:mohammedmuneebptcsa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+2026
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,100:6366f1&amp;height=100&amp;section=footer" width="100%"/>
+- [x] Strengthen Java fundamentals
+- [x] Build academic & personal projects
+- [x] Participate in hackathons
+- [ ] Build production-quality backend projects
+- [ ] Strengthen DSA consistently
+- [ ] Learn advanced database concepts
+- [ ] Improve software architecture skills
 
-</div>
+2027
+
+- [ ] Build larger full-stack/backend systems
+- [ ] Contribute to open source
+- [ ] Gain internship experience
+- [ ] Deepen AI/ML engineering
+- [ ] Explore MLOps and distributed systems
+
+2028+
+
+- [ ] Become a strong software/backend engineer
+- [ ] Work on real-world AI/ML systems
+- [ ] Contribute to meaningful open-source projects
+- [ ] Pursue high-impact engineering opportunities
+
+---
+
+💡 My Engineering Philosophy
+
+<div align="center">Don't just learn technologies.
+
+Understand the problem.
+Design the system.
+Write maintainable code.
+Test it.
+Ship it.
+Learn from it.
+Build the next version better.
+
+</div>---
+
+📫 Connect With Me
+
+<div align="center"><a href="https://linkedin.com/in/mohammed-muneeb-pt">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:mohammedmuneebptcsa@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://github.com/Muneeb-PT">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><br/><br/>
+
+<i>Open to learning, collaborating and building meaningful projects.</i>
+
+</div><br/><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:06b6d4&height=120&section=footer" width="100%"/></div>
