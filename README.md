@@ -120,12 +120,12 @@ A startup-style MVP exploring an AI-powered documentation generator: the problem
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="165"/>
-<img src="./profile/top-langs.svg" height="165"/>
+<img src="./profile/stats.svg" height="165"/><br>
+<img src="./profile/top-langs.svg" height="165"/><br>
 
-<img src="https://streak-stats.demolab.com?user=Muneeb-PT&hide_border=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Muneeb-PT&hide_border=true&theme=tokyonight" /><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muneeb-PT&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
+<img src="./profile/trophy.svg" />
 
 </div>
 
