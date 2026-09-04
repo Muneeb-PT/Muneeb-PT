@@ -1,9 +1,8 @@
-name: 🐍 Contribution Journey
+name: 🐍 Contribution Universe
 
 on:
   schedule:
-    # Refresh every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: "17 */6 * * *"
 
   workflow_dispatch:
 
@@ -16,29 +15,500 @@ permissions:
 
 jobs:
   generate:
-    name: Generate contribution animation
+    name: ✨ Generate custom contribution universe
     runs-on: ubuntu-latest
 
     steps:
-      # ─────────────────────────────────────────────
-      # 🐍 Generate Snake
-      # ─────────────────────────────────────────────
-      - name: 🐍 Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # ─────────────────────────────────────────────
-      # 🚀 Publish to output branch
+      # Checkout
       # ─────────────────────────────────────────────
-      - name: 🚀 Publish animation
+
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v4
+
+      # ─────────────────────────────────────────────
+      # Generate custom SVG
+      # ─────────────────────────────────────────────
+
+      - name: 🐍 Generate animated contribution universe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: |
+
+          python3 <<'PY'
+
+          import os
+          import json
+          import urllib.request
+          import html
+          from datetime import datetime
+
+          TOKEN = os.environ["GITHUB_TOKEN"]
+          USER = os.environ["GITHUB_USER"]
+
+          # --------------------------------------------------
+          # GitHub contribution calendar
+          # --------------------------------------------------
+
+          query = """
+          query($login:String!) {
+            user(login:$login) {
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                      contributionLevel
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          payload = json.dumps({
+              "query": query,
+              "variables": {"login": USER}
+          }).encode()
+
+          request = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=payload,
+              headers={
+                  "Authorization": f"Bearer {TOKEN}",
+                  "Content-Type": "application/json",
+                  "User-Agent": "github-contribution-universe"
+              }
+          )
+
+          with urllib.request.urlopen(request) as response:
+              data = json.loads(response.read())
+
+          calendar = (
+              data["data"]["user"]
+              ["contributionsCollection"]
+              ["contributionCalendar"]
+          )
+
+          weeks = calendar["weeks"]
+          total = calendar["totalContributions"]
+
+          # --------------------------------------------------
+          # Contribution grid
+          # --------------------------------------------------
+
+          CELL = 13
+          GAP = 5
+
+          COLS = len(weeks)
+          ROWS = 7
+
+          LEFT = 35
+          TOP = 100
+
+          WIDTH = LEFT + COLS * (CELL + GAP) + 35
+          HEIGHT = TOP + ROWS * (CELL + GAP) + 100
+
+          # --------------------------------------------------
+          # Flatten contribution cells
+          # --------------------------------------------------
+
+          cells = []
+
+          for x, week in enumerate(weeks):
+
+              for y, day in enumerate(
+                  week["contributionDays"]
+              ):
+
+                  count = day["contributionCount"]
+
+                  cells.append({
+                      "x": x,
+                      "y": y,
+                      "count": count,
+                      "date": day["date"],
+                      "level": day["contributionLevel"]
+                  })
+
+          # --------------------------------------------------
+          # Build serpentine snake path
+          # --------------------------------------------------
+
+          path_points = []
+
+          for x in range(COLS):
+
+              ys = range(ROWS)
+
+              if x % 2:
+                  ys = reversed(range(ROWS))
+
+              for y in ys:
+
+                  px = (
+                      LEFT
+                      + x * (CELL + GAP)
+                      + CELL / 2
+                  )
+
+                  py = (
+                      TOP
+                      + y * (CELL + GAP)
+                      + CELL / 2
+                  )
+
+                  path_points.append(
+                      f"{px:.1f},{py:.1f}"
+                  )
+
+          path = " ".join(
+              ("M " if i == 0 else "L ") + point
+              for i, point in enumerate(path_points)
+          )
+
+          # --------------------------------------------------
+          # Contribution intensity
+          # --------------------------------------------------
+
+          def opacity(count):
+
+              if count <= 0:
+                  return "0.045"
+
+              if count <= 2:
+                  return "0.18"
+
+              if count <= 5:
+                  return "0.32"
+
+              if count <= 10:
+                  return "0.50"
+
+              if count <= 20:
+                  return "0.72"
+
+              return "0.95"
+
+          # --------------------------------------------------
+          # SVG cells
+          # --------------------------------------------------
+
+          rectangles = []
+
+          for cell in cells:
+
+              x = (
+                  LEFT
+                  + cell["x"] * (CELL + GAP)
+              )
+
+              y = (
+                  TOP
+                  + cell["y"] * (CELL + GAP)
+              )
+
+              op = opacity(cell["count"])
+
+              rectangles.append(
+                  f"""
+                  <rect
+                    x="{x}"
+                    y="{y}"
+                    width="{CELL}"
+                    height="{CELL}"
+                    rx="4"
+                    fill="url(#cellGradient)"
+                    opacity="{op}"
+                    class="cell"
+                  >
+                    <animate
+                      attributeName="opacity"
+                      values="{op};{min(float(op)+0.15,1)};{op}"
+                      dur="{3 + (cell['x'] % 5) * 0.4}s"
+                      begin="{(cell['x'] + cell['y']) * 0.035}s"
+                      repeatCount="indefinite"
+                    />
+                  </rect>
+                  """
+              )
+
+          # --------------------------------------------------
+          # SVG
+          # --------------------------------------------------
+
+          svg = f"""<?xml version="1.0" encoding="UTF-8"?>
+
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="{WIDTH}"
+            height="{HEIGHT}"
+            viewBox="0 0 {WIDTH} {HEIGHT}"
+            role="img"
+            aria-label="Animated GitHub contribution universe"
+          >
+
+            <defs>
+
+              <!-- Background -->
+              <linearGradient
+                id="background"
+                x1="0%"
+                y1="0%"
+                x2="100%"
+                y2="100%"
+              >
+                <stop offset="0%" stop-color="#050816"/>
+                <stop offset="45%" stop-color="#0b1024"/>
+                <stop offset="100%" stop-color="#050816"/>
+              </linearGradient>
+
+              <!-- Contribution cells -->
+              <linearGradient
+                id="cellGradient"
+                x1="0%"
+                y1="0%"
+                x2="100%"
+                y2="100%"
+              >
+                <stop offset="0%" stop-color="#00F5FF"/>
+                <stop offset="50%" stop-color="#6366F1"/>
+                <stop offset="100%" stop-color="#A855F7"/>
+              </linearGradient>
+
+              <!-- Snake -->
+              <linearGradient
+                id="snakeGradient"
+                x1="0%"
+                y1="0%"
+                x2="100%"
+                y2="0%"
+              >
+                <stop offset="0%" stop-color="#00F5FF"/>
+                <stop offset="50%" stop-color="#6366F1"/>
+                <stop offset="100%" stop-color="#EC4899"/>
+              </linearGradient>
+
+              <!-- Text -->
+              <linearGradient
+                id="titleGradient"
+                x1="0%"
+                y1="0%"
+                x2="100%"
+                y2="0%"
+              >
+                <stop offset="0%" stop-color="#FFFFFF"/>
+                <stop offset="55%" stop-color="#67E8F9"/>
+                <stop offset="100%" stop-color="#C084FC"/>
+              </linearGradient>
+
+              <!-- Glow -->
+              <filter
+                id="glow"
+                x="-100%"
+                y="-100%"
+                width="300%"
+                height="300%"
+              >
+                <feGaussianBlur
+                  stdDeviation="5"
+                  result="blur"
+                />
+
+                <feMerge>
+                  <feMergeNode in="blur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+
+              <!-- Strong glow -->
+              <filter
+                id="strongGlow"
+                x="-200%"
+                y="-200%"
+                width="400%"
+                height="400%"
+              >
+                <feGaussianBlur
+                  stdDeviation="9"
+                  result="blur"
+                />
+
+                <feMerge>
+                  <feMergeNode in="blur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+
+            </defs>
+
+            <!-- Background -->
+            <rect
+              width="100%"
+              height="100%"
+              rx="24"
+              fill="url(#background)"
+            />
+
+            <!-- Ambient glow -->
+            <circle
+              cx="{WIDTH * 0.15}"
+              cy="{HEIGHT * 0.25}"
+              r="160"
+              fill="#06B6D4"
+              opacity="0.045"
+            />
+
+            <circle
+              cx="{WIDTH * 0.85}"
+              cy="{HEIGHT * 0.65}"
+              r="200"
+              fill="#8B5CF6"
+              opacity="0.045"
+            />
+
+            <!-- Header -->
+
+            <text
+              x="{LEFT}"
+              y="40"
+              fill="url(#titleGradient)"
+              font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+              font-size="21"
+              font-weight="700"
+              letter-spacing="1"
+            >
+              CONTRIBUTION JOURNEY
+            </text>
+
+            <text
+              x="{LEFT}"
+              y="65"
+              fill="#94A3B8"
+              font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+              font-size="11"
+              letter-spacing="2"
+            >
+              BUILD • LEARN • SHIP • REPEAT
+            </text>
+
+            <!-- Contribution cells -->
+
+            {"".join(rectangles)}
+
+            <!-- Snake shadow -->
+
+            <path
+              d="{path}"
+              fill="none"
+              stroke="#6366F1"
+              stroke-width="7"
+              opacity="0.16"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              filter="url(#strongGlow)"
+            />
+
+            <!-- Animated snake -->
+
+            <path
+              d="{path}"
+              fill="none"
+              stroke="url(#snakeGradient)"
+              stroke-width="3"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-dasharray="24 180"
+              filter="url(#glow)"
+            >
+
+              <animate
+                attributeName="stroke-dashoffset"
+                from="0"
+                to="-204"
+                dur="5s"
+                repeatCount="indefinite"
+              />
+
+            </path>
+
+            <!-- Moving snake head -->
+
+            <circle
+              r="5"
+              fill="#FFFFFF"
+              stroke="#67E8F9"
+              stroke-width="2"
+              filter="url(#strongGlow)"
+            >
+
+              <animateMotion
+                dur="5s"
+                repeatCount="indefinite"
+                rotate="auto"
+                path="{path}"
+              />
+
+            </circle>
+
+            <!-- Bottom information -->
+
+            <text
+              x="{LEFT}"
+              y="{HEIGHT - 40}"
+              fill="#64748B"
+              font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+              font-size="10"
+              letter-spacing="1"
+            >
+              {total:,} CONTRIBUTIONS
+            </text>
+
+            <text
+              x="{WIDTH - 35}"
+              y="{HEIGHT - 40}"
+              text-anchor="end"
+              fill="#475569"
+              font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+              font-size="10"
+              letter-spacing="1"
+            >
+              MUNEEB-PT / 2026
+            </text>
+
+          </svg>
+          """
+
+          os.makedirs("dist", exist_ok=True)
+
+          with open(
+              "dist/contribution-universe.svg",
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              f.write(svg)
+
+          print(
+              f"✨ Generated contribution universe "
+              f"with {total} contributions."
+          )
+
+          PY
+
+      # ─────────────────────────────────────────────
+      # Publish
+      # ─────────────────────────────────────────────
+
+      - name: 🚀 Publish to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
-          build_dir: dist
           target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
