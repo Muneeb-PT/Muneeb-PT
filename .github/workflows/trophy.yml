@@ -1,0 +1,58 @@
+name: 🏆 Update GitHub Profile Trophy
+
+on:
+  # Update automatically once every 24 hours
+  schedule:
+    - cron: "17 0 * * *"
+
+  # Allow manual updates from Actions → Run workflow
+  workflow_dispatch:
+
+  # Also refresh when this workflow itself is changed
+  push:
+    paths:
+      - ".github/workflows/trophy.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-trophy:
+    name: Generate Trophy SVG
+    runs-on: ubuntu-latest
+
+    steps:
+      # ─────────────────────────────────────────────
+      # 1. Checkout profile repository
+      # ─────────────────────────────────────────────
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      # ─────────────────────────────────────────────
+      # 2. Generate Trophy locally
+      # ─────────────────────────────────────────────
+      - name: 🏆 Generate GitHub Trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: >-
+            username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&margin-w=8&row=1
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────────────
+      # 3. Commit generated SVG
+      # ─────────────────────────────────────────────
+      - name: 💾 Commit Trophy SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/trophy.svg
+
+          if git diff --cached --quiet; then
+            echo "No Trophy changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub profile trophy"
+          git push
