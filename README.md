@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:8b5cf6&height=200&section=header&text=Mohammed%20Muneeb%20PT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%40%20KMEA%20%C2%B7%20Building%20Software%2C%20Systems%20%26%20AI-assisted%20Products&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:06b6d4,100:8b5cf6&amp;height=200&amp;section=header&amp;text=Mohammed%20Muneeb%20PT&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=B.Tech%20CSE%20%40%20KMEA%20%C2%B7%20Building%20Software%2C%20Systems%20%26%20AI-assisted%20Products&amp;descAlignY=58&amp;descSize=16" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=Second-year+CSE+student+%40+KMEA+Engineering+College;Minor+in+Electronics+(EC)+%C2%B7+KTU+Autonomous;Currently%3A+JavaFX+%2B+MySQL+%C2%B7+NPTEL+Cloud+Computing;Open+to+Software+Engineering+Internships" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=900&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Second-year+CSE+student+%40+KMEA+Engineering+College;Minor+in+Electronics+(EC)+%C2%B7+KTU+Autonomous;Currently%3A+JavaFX+%2B+MySQL+%C2%B7+NPTEL+Cloud+Computing;Open+to+Software+Engineering+Internships" alt="Typing SVG"/>
 </a>
 
 <p>
-  <a href="https://github.com/Muneeb-PT"><img src="https://img.shields.io/badge/GitHub-Muneeb--PT-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Muneeb-PT"><img src="https://img.shields.io/badge/GitHub-Muneeb--PT-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20Internships-2ea043?style=for-the-badge" alt="Open to internships"/>
-  <img src="https://komarev.com/ghpvc/?username=Muneeb-PT&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Muneeb-PT&amp;style=for-the-badge&amp;color=6366f1&amp;label=Profile+Views" alt="Profile views"/>
 </p>
 
 <sub><a href="#-about-me">About</a> &nbsp;·&nbsp; <a href="#-currently">Currently</a> &nbsp;·&nbsp; <a href="#-featured-builds">Featured Builds</a> &nbsp;·&nbsp; <a href="#-other-projects">Other Projects</a> &nbsp;·&nbsp; <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> &nbsp;·&nbsp; <a href="#-github-analytics">Analytics</a> &nbsp;·&nbsp; <a href="#-lets-connect">Connect</a></sub>
@@ -43,10 +43,10 @@ I like taking things past the tutorial stage: finishing a working app, writing d
 
 <p>
 <img alt="status" src="https://img.shields.io/badge/status-hackathon_prototype-orange?style=flat-square"/>
-<img alt="react" src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img alt="supabase" src="https://img.shields.io/badge/Supabase-Postgres%20%2B%20Auth-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img alt="tailwind" src="https://img.shields.io/badge/Tailwind-shadcn%2Fui-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img alt="react" src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white"/>
+<img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
+<img alt="supabase" src="https://img.shields.io/badge/Supabase-Postgres%20%2B%20Auth-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white"/>
+<img alt="tailwind" src="https://img.shields.io/badge/Tailwind-shadcn%2Fui-38BDF8?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white"/>
 </p>
 
 Built in ~12 hours with a 4-person team. Instead of reducing a candidate to a resume, Synapse builds a living profile (skills, goals, strengths) paired with an AI mentor and a fit-based matching layer for recruiters.
@@ -55,7 +55,7 @@ Built in ~12 hours with a 4-person team. Instead of reducing a candidate to a re
 flowchart LR
     U[User] -->|sign in| A[Supabase Auth]
     U -->|browse| F[React + Vite Frontend]
-    F -->|profile & skills data| D[(Supabase Postgres + RLS)]
+    F -->|profile / skills data| D[(Supabase Postgres + RLS)]
     F -->|chat message| E[Edge Function: ai-mentor]
     E -->|streamed request| G[Lovable AI Gateway]
     G -->|Gemini 3 Flash| E
@@ -77,7 +77,7 @@ flowchart LR
 
 <p>
 <img src="https://img.shields.io/badge/Built_with-Lovable.ai-6366f1?style=flat-square"/>
-<img src="https://img.shields.io/badge/React_%2B_Vite-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_%2B_Vite-TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Prototype-orange?style=flat-square"/>
 </p>
 
@@ -120,12 +120,12 @@ A startup-style MVP exploring an AI-powered documentation generator: the problem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&show_icons=true&hide_border=true&rank_icon=github&count_private=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;count_private=true&amp;theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=tokyonight" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Muneeb-PT&hide_border=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Muneeb-PT&amp;hide_border=true&amp;theme=tokyonight" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muneeb-PT&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Muneeb-PT&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=8&amp;row=1" />
 
 </div>
 
@@ -151,9 +151,9 @@ A startup-style MVP exploring an AI-powered documentation generator: the problem
 
 I'm interested in backend systems, full-stack builds, hackathons, and AI-assisted developer tools — open to internships, collaborations, and good first issues.
 
-<a href="https://github.com/Muneeb-PT"><img src="https://img.shields.io/badge/GitHub-Muneeb--PT-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Muneeb-PT"><img src="https://img.shields.io/badge/GitHub-Muneeb--PT-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:8b5cf6&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:06b6d4,100:8b5cf6&amp;height=150&amp;section=footer" width="100%"/>
 
 </div>
