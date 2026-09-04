@@ -120,9 +120,8 @@ A startup-style MVP exploring an AI-powered documentation generator: the problem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=86400" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400" height="165"/>
+<img src="./profile/stats.svg" height="165"/>
+<img src="./profile/top-langs.svg" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Muneeb-PT&hide_border=true&theme=tokyonight" />
 
