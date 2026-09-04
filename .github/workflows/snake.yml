@@ -1,0 +1,42 @@
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # refresh every 6 hours
+  workflow_dispatch: {}     # allows manual "Run workflow" trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate the snake svg
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push the output to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+# --- Setup (one-time) ---
+# 1. In your Muneeb-PT/Muneeb-PT repo, create the folder .github/workflows/
+#    and save this file there as snake.yml
+# 2. Commit + push to main. Go to the "Actions" tab and run it once manually
+#    (workflow_dispatch) so it creates the "output" branch.
+# 3. After that, README.md's snake image tag will start rendering automatically:
+#    https://raw.githubusercontent.com/Muneeb-PT/Muneeb-PT/output/github-contribution-grid-snake.svg
+# 4. It re-runs every 6 hours on schedule, keeping the animation in sync with
+#    your real contribution graph.
