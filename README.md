@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:06b6d4,100:8b5cf6&amp;height=200&amp;section=header&amp;text=Mohammed%20Muneeb%20PT&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=B.Tech%20CSE%20%40%20KMEA%20%C2%B7%20Building%20Software%2C%20Systems%20%26%20AI-assisted%20Products&amp;descAlignY=58&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:06b6d4,100:8b5cf6&amp;height=200&amp;section=header&amp;text=Mohammed%20Muneeb%20PT&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=B.Tech%20CSE%20%40%20KMEA%20%C2%B7%20Building%20Software%2C%20Systems%20and%20AI-assisted%20Products&amp;descAlignY=58&amp;descSize=16" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=900&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Second-year+CSE+student+%40+KMEA+Engineering+College;Minor+in+Electronics+(EC)+%C2%B7+KTU+Autonomous;Currently%3A+JavaFX+%2B+MySQL+%C2%B7+NPTEL+Cloud+Computing;Open+to+Software+Engineering+Internships" alt="Typing SVG"/>
@@ -120,8 +120,8 @@ A startup-style MVP exploring an AI-powered documentation generator: the problem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;count_private=true&amp;theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=tokyonight&amp;cache_seconds=86400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=tokyonight&amp;cache_seconds=86400" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Muneeb-PT&amp;hide_border=true&amp;theme=tokyonight" />
 
