@@ -134,7 +134,40 @@ A startup-style MVP exploring an AI-powered documentation generator: the problem
 ## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Muneeb-PT/Muneeb-PT/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+
+<br>
+
+## 🐍 Contribution Universe
+
+<p>
+  <i>
+    Every commit is a small step.
+    Together, they create the journey.
+  </i>
+</p>
+
+<br>
+
+<a href="https://github.com/Muneeb-PT">
+
+<img
+  src="https://raw.githubusercontent.com/Muneeb-PT/Muneeb-PT/output/contribution-universe.svg"
+  width="100%"
+  alt="Muneeb PT contribution universe"
+/>
+
+</a>
+
+<br>
+
+### ⚡ BUILD &nbsp; • &nbsp; 🧠 LEARN &nbsp; • &nbsp; 🚀 SHIP
+
+<sub>
+My GitHub activity — visualized as a living contribution journey.
+</sub>
+
+<br><br>
+
 </div>
 
 *(Renders once the snake workflow below is added to this repo — see setup note.)*
