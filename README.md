@@ -120,12 +120,13 @@ A startup-style MVP exploring an AI-powered documentation generator: the problem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=tokyonight&amp;cache_seconds=86400" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=tokyonight&amp;cache_seconds=86400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muneeb-PT&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=86400" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Muneeb-PT&amp;hide_border=true&amp;theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-PT&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400" height="165"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muneeb-PT&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=8&amp;row=1" />
+<img src="https://streak-stats.demolab.com?user=Muneeb-PT&hide_border=true&theme=tokyonight" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muneeb-PT&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
 
 </div>
 
