@@ -1,192 +1,65 @@
-<div align="center">
+# Mohammed Muneeb PT
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:06b6d4,100:8b5cf6&amp;height=200&amp;section=header&amp;text=Mohammed%20Muneeb%20PT&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=B.Tech%20CSE%20%40%20KMEA%20%C2%B7%20Building%20Software%2C%20Systems%20and%20AI-assisted%20Products&amp;descAlignY=58&amp;descSize=16" width="100%"/>
+**B.Tech Computer Science student at KMEA Engineering College**  
+Interested in **software engineering, backend development, and AI/ML**.
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=900&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Second-year+CSE+student+%40+KMEA+Engineering+College;Minor+in+Electronics+(EC)+%C2%B7+KTU+Autonomous;Currently%3A+JavaFX+%2B+MySQL+%C2%B7+NPTEL+Cloud+Computing;Open+to+Software+Engineering+Internships" alt="Typing SVG"/>
-</a>
+I build and document practical software projects while strengthening my foundations in programming, data structures, databases, and software design. I value clear project scope, readable code, and honest documentation of what works, what is still a prototype, and what needs improvement.
 
-<p>
-  <a href="https://github.com/Muneeb-PT"><img src="https://img.shields.io/badge/GitHub-Muneeb--PT-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20Internships-2ea043?style=for-the-badge" alt="Open to internships"/>
-  <img src="https://komarev.com/ghpvc/?username=Muneeb-PT&amp;style=for-the-badge&amp;color=6366f1&amp;label=Profile+Views" alt="Profile views"/>
-</p>
+[Portfolio](https://muneeb-pt.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohammed-muneeb-pt) · [GitHub](https://github.com/Muneeb-PT)
 
-<sub><a href="#-about-me">About</a> &nbsp;·&nbsp; <a href="#-currently">Currently</a> &nbsp;·&nbsp; <a href="#-featured-builds">Featured Builds</a> &nbsp;·&nbsp; <a href="#-other-projects">Other Projects</a> &nbsp;·&nbsp; <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> &nbsp;·&nbsp; <a href="#-github-analytics">Analytics</a> &nbsp;·&nbsp; <a href="#-lets-connect">Connect</a></sub>
+---
 
-</div>
+## Featured projects
 
-<br/>
+### [MediNexus — Smart Hospital Management System](https://github.com/Muneeb-PT/MediNexus)
+**Java · JavaFX · FXML · JDBC · MySQL · Maven**
 
-## 🧑‍💻 About Me
+A group OOP mini-project that brings together hospital workflows such as role-based access, patient records, appointments, prescriptions, pharmacy inventory, billing, and emergency requests. Includes automated tests and a Windows release. This is an academic demonstration project, not a certified clinical system.
 
-I'm a second-year **B.Tech CSE** student at **KMEA Engineering College (Autonomous)**, Aluva — affiliated to KTU — currently in **S3**, also pursuing a **minor in Electronics (EC)**.
+### [SYNAPSE — Career Intelligence Prototype](https://github.com/Muneeb-PT/SYNAPSE-mindspark)
+**React · TypeScript · Supabase · PostgreSQL · Edge Functions**
 
-I like taking things past the tutorial stage: finishing a working app, writing down what it actually does (and doesn't do yet), and shipping the next version. Off the keyboard, I serve as **Class Representative** and **Junior Red Cross (JRC) Unit Leader**, and I'm active in **IEEE** and other technical communities on campus.
+A team hackathon prototype exploring career guidance and skills-based profiles. Implemented areas include authentication, persisted profile data, and an AI mentor integration. Several dashboard and recruiter experiences remain prototype/demo functionality.
 
-## 🌱 Currently
+### [AutoDoc AI — AI Document Generation Prototype](https://github.com/Muneeb-PT/AutoDoc-AI)
+**React · TypeScript · Supabase · PostgreSQL · AI integration**
 
-- 🏥 Building a **Smart Hospital Management System** — JavaFX + JDBC + MySQL, with a rule-based appointment-priority engine (Strategy/Observer patterns) — for my S3 OOP coursework *(in progress — repo coming soon)*
-- ☁️ Working through **NPTEL Cloud Computing** (IIT Kharagpur, Prof. Soumya K. Ghosh) week by week
-- 📈 Strengthening **DSA** and backend fundamentals ahead of internship applications
-- 🎯 Targeting **software engineering internships**, with GATE CSE and MS-abroad kept open as longer-term tracks
+An academic startup prototype for generating structured documents from user-provided information and files. Includes a document-generation workflow, preview, history, and export options. Automated source-code analysis and other advanced product ideas remain future scope.
 
-## 🚀 Featured Builds
+---
 
-<table>
-<tr>
-<td width="100%">
+## Other work
 
-### 🧠 Synapse — AI Career Intelligence Platform
-**Team hackathon build · KAPRICIOUS'26, KMEA Engineering College — first hackathon, first year of college**
+| Repository | Focus |
+|---|---|
+| [Weather App](https://github.com/Muneeb-PT/Weather_App) | React application using the Open-Meteo geocoding and forecast APIs |
+| [Front-End Training Work](https://github.com/Muneeb-PT/add-on_class_profile) | HTML, CSS, and JavaScript exercises from a five-day training programme |
+| [Diwali — Festival of Lights](https://github.com/Muneeb-PT/Diwali-Festival-of-Lights) | First-year Foundations of Computing assignment |
+| [Java OOP / DSA practice](https://github.com/Muneeb-PT) | Coursework and programming practice across my repositories |
 
-<p>
-<img alt="status" src="https://img.shields.io/badge/status-hackathon_prototype-orange?style=flat-square"/>
-<img alt="react" src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white"/>
-<img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
-<img alt="supabase" src="https://img.shields.io/badge/Supabase-Postgres%20%2B%20Auth-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white"/>
-<img alt="tailwind" src="https://img.shields.io/badge/Tailwind-shadcn%2Fui-38BDF8?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white"/>
-</p>
+---
 
-Built in ~12 hours with a 4-person team. Instead of reducing a candidate to a resume, Synapse builds a living profile (skills, goals, strengths) paired with an AI mentor and a fit-based matching layer for recruiters.
+## Technologies I have worked with
 
-```mermaid
-flowchart LR
-    U[User] -->|sign in| A[Supabase Auth]
-    U -->|browse| F[React + Vite Frontend]
-    F -->|profile / skills data| D[(Supabase Postgres + RLS)]
-    F -->|chat message| E[Edge Function: ai-mentor]
-    E -->|streamed request| G[Lovable AI Gateway]
-    G -->|Gemini 3 Flash| E
-    E -->|streamed tokens| F
-```
+- **Languages:** Java, Python, C, C++, JavaScript, TypeScript
+- **Frontend:** HTML, CSS, React, Vite
+- **Desktop development:** JavaFX, FXML
+- **Backend and data:** JDBC, MySQL, Supabase, PostgreSQL
+- **Tools:** Git, GitHub, Maven, IntelliJ IDEA, VS Code
 
-**Genuinely working:** email/password auth, profile + skills/education/experience persisted to Postgres behind Row-Level Security, and a live AI mentor chat streamed from Gemini 3 Flash.
-**Still prototype:** the dashboard, roadmap, and recruiter views currently render from mock data rather than live queries — called out here rather than left for someone to discover later.
+This is a record of technologies used in coursework and projects, not a claim of professional mastery.
 
-📎 [Live demo](https://muneeb-pt.github.io/SYNAPSE-mindspark/) · [Source](https://github.com/Muneeb-PT/SYNAPSE-mindspark)
+## Currently focusing on
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+- Strengthening data structures, algorithms, and problem-solving.
+- Improving Java, backend fundamentals, and database design.
+- Building a deeper foundation in AI/ML alongside software engineering.
+- Improving testing, documentation, and maintainability in my projects.
 
-### 📄 AutoDoc AI — Product Concept & Landing Page
-**Course project · Engineering Entrepreneurs & IPR**
+## Let's connect
 
-<p>
-<img src="https://img.shields.io/badge/Built_with-Lovable.ai-6366f1?style=flat-square"/>
-<img src="https://img.shields.io/badge/React_%2B_Vite-TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Prototype-orange?style=flat-square"/>
-</p>
+I'm open to **software engineering internship opportunities**, learning collaborations, and constructive feedback on my projects.
 
-A startup-style MVP exploring an AI-powered documentation generator: the problem, the pitch, feature set, and pricing tiers, built as a polished landing page and UI (React + TypeScript + Tailwind + shadcn/ui, scaffolded with Lovable). This project was the entrepreneurship exercise — validating the idea and the UI, not shipping the backend — so the "engine" describes a planned architecture (repo analysis → LLM pipeline → generated docs) rather than a deployed one.
-
-📎 [Live demo](https://autodoc-ai.lovable.app) · [Source](https://github.com/Muneeb-PT/AutoDoc-AI)
-
-</td>
-</tr>
-</table>
-
-## 🧪 Other Projects
-
-| Project | What it is | Built with | Link |
-|---|---|---|---|
-| 🌦️ Weather App | API-driven, location-based weather lookup | React · Vite · Weather API | [Live](https://muneeb-pt.github.io/Weather_App/) · [Code](https://github.com/Muneeb-PT/Weather_App) |
-| 🧮 Calculator | Responsive arithmetic calculator | HTML · CSS · JavaScript | [Live](https://muneeb-pt.github.io/Calculator/) · [Code](https://github.com/Muneeb-PT/Calculator) |
-| 🪔 Diwali — Festival of Lights | First-year "Foundations of Computing" project | HTML · CSS | [Code](https://github.com/Muneeb-PT/Diwali-Festival-of-Lights) |
-| 🌐 My First HTML Project | Class-12 site — first steps into web dev | HTML | [Live](https://muneeb-pt.github.io/MyFirst-HTML-project/) · [Code](https://github.com/Muneeb-PT/MyFirst-HTML-project) |
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
-
-**Web & Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
-
-**Backend & Data**
-<img src="https://skillicons.dev/icons?i=mysql,supabase" />
-
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="./profile/stats.svg" height="165"/><br>
-<img src="./profile/top-langs.svg" height="165"/><br>
-
-<img src="https://streak-stats.demolab.com?user=Muneeb-PT&hide_border=true&theme=tokyonight" /><br>
-
-<img src="./profile/trophy.svg" />
-
-</div>
-
-> These cards use the shared public instances of `github-readme-stats` / `github-profile-trophy`, which occasionally rate-limit under heavy traffic — if a card ever shows blank, refresh, or see the setup note below on self-hosting.
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<br>
-
-## 🐍 Contribution Universe
-
-<p>
-  <i>
-    Every commit is a small step.
-    Together, they create the journey.
-  </i>
-</p>
-
-<br>
-
-<a href="https://github.com/Muneeb-PT">
-
-<img
-  src="https://raw.githubusercontent.com/Muneeb-PT/Muneeb-PT/output/contribution-universe.svg"
-  width="100%"
-  alt="Muneeb PT contribution universe"
-/>
-
-</a>
-
-<br>
-
-### ⚡ BUILD &nbsp; • &nbsp; 🧠 LEARN &nbsp; • &nbsp; 🚀 SHIP
-
-<sub>
-My GitHub activity — visualized as a living contribution journey.
-</sub>
-
-<br><br>
-
-</div>
-
-*(Renders once the snake workflow below is added to this repo — see setup note.)*
-
-## 🎯 Roadmap
-
-| Now | Next | Later |
-|---|---|---|
-| DSA fundamentals · Java/JavaFX backend work · finish SHMS | First public open-source PR · a full-stack project with a real backend | Internship-ready portfolio · GATE CSE / MS-abroad prep |
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm interested in backend systems, full-stack builds, hackathons, and AI-assisted developer tools — open to internships, collaborations, and good first issues.
-
-<a href="https://github.com/Muneeb-PT"><img src="https://img.shields.io/badge/GitHub-Muneeb--PT-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohammed-muneeb-pt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:06b6d4,100:8b5cf6&amp;height=150&amp;section=footer" width="100%"/>
-
-</div>
+- **Portfolio:** https://muneeb-pt.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/mohammed-muneeb-pt
+- **GitHub:** https://github.com/Muneeb-PT
